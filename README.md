@@ -1,3 +1,3 @@
 # mint-gtk-theme
 
-Penguin Mint theme
+Mint GTK Theme
